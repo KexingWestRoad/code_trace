@@ -1,1 +1,2 @@
 trace.txt filter=gitignore
+main.dart filter=gitignore
