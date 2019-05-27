@@ -1,2 +1,2 @@
-trace.txt filter=gitignore
+*.trace filter=gitignore
 main.dart filter=gitignore
